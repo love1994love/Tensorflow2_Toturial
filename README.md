@@ -4,3 +4,11 @@
 - 神经网络与全连接层
 - 反向传播算法
 
+
+
+
+
+参考链接：
+
+[TensorFlow 2.0深度学习](https://github.com/dragen1860/Deep-Learning-with-TensorFlow-book)
+
